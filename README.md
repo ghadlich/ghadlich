@@ -7,7 +7,7 @@ I'm a Computer Scientist interested in low level software, reinforcement learnin
 🎓BS Computer Science - University of North Dakota  
 🎓BS Mathematics - University of North Dakota  
 🎓MS Electrical Engineering - University of Washington  
-🔄MS Computer Science - University of Washington ('21)  
+🎓MS Computer Science - University of Washington
 
 <!---
 ghadlich/ghadlich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
